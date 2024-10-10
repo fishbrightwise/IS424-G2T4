@@ -1,3 +1,4 @@
 *.csv
 Related:*
 nltk_data/
+*.weights.h5
