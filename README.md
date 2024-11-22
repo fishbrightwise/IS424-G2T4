@@ -37,6 +37,7 @@ Within this repository, you will find the following IPYNB notebooks:
     3) Gradient Boosted Labelled Data Analysis
     4) ngram
     5) Further Internal Attribute Analysis
+    6) Sentiment140 Data Analysis
 
 ### Datasets
 - Reddit Depression Dataset by Rishabh on Kaggle. <br>
