@@ -1,4 +1,4 @@
-# IS424G2T4
+# IS424-G2-T4
  Data Mining & Business Analytics Project
 
 ## Depression in Social Media
@@ -43,10 +43,10 @@ Within this repository, you will find the following IPYNB notebooks:
 - Reddit Depression Dataset by Rishabh on Kaggle. <br>
 https://www.kaggle.com/datasets/rishabhkausish/reddit-depression-dataset
 
-- Sentiment Analysis Mental Health Tweets 2017-2023 by Zee M. <br>
+- Sentiment Analysis Mental Health Tweets 2017-2023 by Zee M on Kaggle. <br>
 https://www.kaggle.com/datasets/zoegreenslade/twittermhcampaignsentmentanalysis
 
-- Sentiment140 dataset with 1.6 million tweets by Μαριος Μιχαηλιδης KazAnova. <br>
+- Sentiment140 dataset with 1.6 million tweets by Μαριος Μιχαηλιδης KazAnova on Kaggle. <br>
 https://www.kaggle.com/datasets/kazanova/sentiment140
 
 ### How to use
