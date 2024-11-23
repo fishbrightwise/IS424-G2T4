@@ -49,6 +49,9 @@ https://www.kaggle.com/datasets/zoegreenslade/twittermhcampaignsentmentanalysis
 - Sentiment140 dataset with 1.6 million tweets by Μαριος Μιχαηλιδης KazAnova on Kaggle. <br>
 https://www.kaggle.com/datasets/kazanova/sentiment140
 
+- Inflation, Interest Rate and Unemployment by Kim Hyun Bin on Kaggle. <br>
+https://www.kaggle.com/code/kimmik123/inflation-interest-rate-and-unemployment/input
+
 ### How to use
 1. Prepare the data:
     1) Download the data sources from their respective origin points mentioned above.
