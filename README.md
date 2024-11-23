@@ -53,7 +53,7 @@ https://www.kaggle.com/datasets/kazanova/sentiment140
 1. Prepare the data:
     1) Download the data sources from their respective origin points mentioned above.
     2) Add in the datasets from the downloaded files into the /data folder.
-        * Specifically for the Mental Health Tweets dataset, we are specifically used the Sentiment_Scored variant.
+        * Specifically for the Mental Health Tweets dataset, we used the Sentiment_Scored variant.
 2. Process the data:
     1) Run notebooks 1) through 2) to prepare the processed data for modelling purposes.
 3. Modelling (Optional):
